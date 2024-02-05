@@ -25,6 +25,10 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
         <p>This is the first commit</p>
+        <p>This is the second commit</p>
+        <p>1</p>
+        <p>2</p>
+        <p>3</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
