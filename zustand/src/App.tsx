@@ -29,6 +29,7 @@ function App() {
         <p>1</p>
         <p>2</p>
         <p>3</p>
+        <p>This is the third commit</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
